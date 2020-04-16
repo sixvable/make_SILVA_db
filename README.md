@@ -205,7 +205,7 @@ vsearch --fastx_filter SILVA_empv4.fasta \
       --fasta_width 0
     ```
 
-    Switch to QIIME 1 environment. Use the [parse_otu_mapping_from_uc.py](https://gist.github.com/walterst/8b88b149a08ef91651f85b088efda1e2) and [create_consensus_taxonomy.py](https://gist.github.com/walterst/bd69a19e75748f79efeb) code from Tony Walters.
+    Switch to QIIME 1 environment. Use the [parse_otu_mapping_from_uc.py](https://gist.github.com/walterst/8b88b149a08ef91651f85b088efda1e2) and [create_consensus_taxonomy.py](https://gist.github.com/walterst/bd69a19e75748f79efeb) code from Tony Walters.***Already in this repo.***
 
     ```
     python parse_otu_mapping_from_uc.py \
